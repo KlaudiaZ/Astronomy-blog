@@ -1,0 +1,17 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "Astroblog-supporting server",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon --exec babel-node --presets env server.js"
+    },
+    "author": "Klaudia Zajac",
+    "license": "MIT",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset-env": "^1.7.0",
+        "express": "^4.16.3",
+        "pug": "^2.0.3"
+    }
+}
