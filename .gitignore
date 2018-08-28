@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /server/node_modules
+/server/astroblog/db/database.js
 
 # testing
 /coverage
