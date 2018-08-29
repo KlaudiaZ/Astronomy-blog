@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://news.gsu.edu/files/2017/11/iStock-516189065.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.section {
+    background-color: rgba(151, 136, 136, 0.5);
+}
